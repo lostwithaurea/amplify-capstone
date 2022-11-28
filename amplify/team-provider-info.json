@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-makeithome-dev-30741-authRole",
+      "UnauthRoleArn": "arn:aws:iam::909179522441:role/amplify-makeithome-dev-30741-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::909179522441:role/amplify-makeithome-dev-30741-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-makeithome-dev-30741-deployment",
+      "UnauthRoleName": "amplify-makeithome-dev-30741-unauthRole",
+      "StackName": "amplify-makeithome-dev-30741",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:909179522441:stack/amplify-makeithome-dev-30741/084d3da0-6f50-11ed-b403-0ac1202b3748",
+      "AmplifyAppId": "dpecz7rhkzfu6"
+    }
+  }
+}
